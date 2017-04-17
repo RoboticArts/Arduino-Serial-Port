@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/arduino-icon.png</file>
+    </qresource>
+</RCC>
