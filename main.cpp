@@ -52,9 +52,6 @@
 #include "mainwindow.h"
 
 
-
-#include "setserialport.h"
-
 #include <QApplication>
 #include "dialog.h"
 
@@ -64,8 +61,6 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
-    SetSerialPort s;
-    s.show();
 
     Dialog dialog;
     dialog.show();
